@@ -1,0 +1,15 @@
+{
+  "name": "js-curry-assignment-0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DavidHerrin/js-curry-assignment-0.git",
+  "author": "David Herrin <david_herrin@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-stage-0": "^6.24.1",
+    "standard": "^10.0.2"
+  }
+}
